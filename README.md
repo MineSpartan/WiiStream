@@ -93,4 +93,4 @@ Code
 
 ## License
 
-MIT License (or whatever you choose)
+MIT License
