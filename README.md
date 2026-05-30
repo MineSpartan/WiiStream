@@ -91,6 +91,11 @@ Code
 
 ---
 
+## Third Party Tools Used
+
+- Uses Tinyh264 Decoder
+- Uses Helix AAC Decoder
+
 ## License
 
 MIT License
